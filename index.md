@@ -2,8 +2,9 @@
 layout: home
 ---
 
-| ![USTB](/img/USTB.png) | ![NCSU](/img/NCSU.png) | ![OSU](/img/OSU.png) | ![QuesTek](/img/QuesTek.png) |
+|                        |                        |                      |                              |
 | :--------------------: | :--------------------: | :------------------: | :--------------------------: |
+| ![USTB](/img/USTB.png) | ![NCSU](/img/NCSU.png) | ![OSU](/img/OSU.png) | ![QuesTek](/img/QuesTek.png) |
 |       2006--2011       |       2011--2015       |      2015--2018      |        2018--Present         |
 
 # Bio
