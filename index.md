@@ -20,9 +20,10 @@ find me on [LinkedIn](https://www.linkedin.com/in/changning-niu).
 |               |                                                                                                     |
 | ------------- | --------------------------------------------------------------------------------------------------- |
 | 2018--Present | QuesTek Innovations LLC, Evanston, IL, USA                                                          |
-|               | - Engineering Manager (Feb 2024--Present)                                                           |
+|               | - Director of Digital Products (Sep 2024--Present)                                                  |
+|               | - Engineering Manager (Feb 2024--Sep 2024)                                                          |
 |               | - Team Lead of Digital Tools (Jan 2022--Feb 2024)                                                   |
-|               | - Senior Materials Design Engineer (Oct 2019--Feb 2024)                                             |
+|               | - Senior Materials Design Engineer (Oct 2019--Jan 2022)                                             |
 |               | - Materials Design Engineer (Apr 2018--Oct 2019)                                                    |
 | 2015--2018    | Ohio State University, Columbus, OH, USA                                                            |
 |               | - Post Doctoral Researcher, Advisor: [Maryam Ghazisaeidi](https://mse.osu.edu/people/ghazisaeidi.1) |
